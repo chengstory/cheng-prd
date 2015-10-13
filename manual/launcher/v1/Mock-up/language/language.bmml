@@ -1,3 +1,20 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="0" measuredH="0" mockupW="0" mockupH="0">
-  <controls/>
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="950" measuredH="562" mockupW="712" mockupH="460">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="238" y="102" w="-1" h="-1" measuredW="712" measuredH="460" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./language.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="417" y="326" w="509" h="82" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u8BED%u8A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="440" y="357" w="301" h="-1" measuredW="92" measuredH="62" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u7B80%u4F53%u4E2D%u6587%0A%u7E41%u4F53%u4E2D%u6587%0A%u82F1%u8BED</text>
+      </controlProperties>
+    </control>
+  </controls>
 </mockup>
