@@ -72,3 +72,5 @@ D:\A11chengPrd\cheng-prd\CocosPRD\CocosPRD\bin\zh-Hans\Microsoft.Owin.Security.M
 D:\A11chengPrd\cheng-prd\CocosPRD\CocosPRD\obj\Release\CocosPRD.csprojResolveAssemblyReference.cache
 D:\A11chengPrd\cheng-prd\CocosPRD\CocosPRD\obj\Release\CocosPRD.dll
 D:\A11chengPrd\cheng-prd\CocosPRD\CocosPRD\obj\Release\CocosPRD.pdb
+D:\A11chengPrd\cheng-prd\CocosPRD\CocosPRD\obj\Release\CocosPRD.Properties.Resources.resources
+D:\A11chengPrd\cheng-prd\CocosPRD\CocosPRD\obj\Release\CocosPRD.csproj.GenerateResource.Cache
